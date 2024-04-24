@@ -1,0 +1,18 @@
+.contactList {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  padding: 0;
+}
+
+.contactItem {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #111;
+  border-radius: 6px;
+  padding: 10px;
+  width: 341px;
+  background-color: rgb(0, 139, 139, 0.9);
+}

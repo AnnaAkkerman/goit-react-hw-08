@@ -1,0 +1,14 @@
+.contactData {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.deleteBtn {
+  padding: 6px 10px;
+  height: 40px;
+  line-height: 1.6;
+  font-size: 18px;
+  border: 1px solid rgb(71, 71, 71);
+  border-radius: 6px;
+}
